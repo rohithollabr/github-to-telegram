@@ -1,1 +1,1 @@
-worker: php gh-payload.php
+web: php gh-payload.php
